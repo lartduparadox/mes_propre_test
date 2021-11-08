@@ -1,3 +1,20 @@
-h1 {
-    color: rgb(112, 44, 44);
+body
+      {                       
+      color: #0f84c2;
+      font-family: "Adobe Devanagari", "Antiquarian Scribe", "Liza Caps Pro", "Liza Display Pro", "Malgun Gothic";
+       border: red solid 0.1em ;
+                         box-shadow: 0px 0px 20px rgb(37, 29, 44) ;
+                         border-radius: 20px / 5px;
+                         
+      }
+h1
+{
+     color: rgb(107, 32, 32);
+     font-size: 3em;
+
 }
+          p
+          {
+               margin-left: 50px;
+               text-shadow:  5px 5px 2px rgb(155, 185, 163);
+           }            
